@@ -1,6 +1,10 @@
 {
   "name": "samyo",
-  "owner": { "name": "Samyo", "url": "https://samyo.fr" },
+  "owner": {
+    "name": "Samyo",
+    "url": "https://samyo.fr"
+  },
+  "description": "Samyo Prospection: LinkedIn prospecting run by an AI agent, from Claude Code.",
   "plugins": [
     {
       "name": "samyo-prospection",
