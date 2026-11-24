@@ -1,0 +1,11 @@
+{
+  "name": "samyo",
+  "owner": { "name": "Samyo", "url": "https://samyo.fr" },
+  "plugins": [
+    {
+      "name": "samyo-prospection",
+      "source": "./samyo-prospection",
+      "description": "LinkedIn prospecting run by an AI agent: strategy from your website, safe invites, messages you approve."
+    }
+  ]
+}

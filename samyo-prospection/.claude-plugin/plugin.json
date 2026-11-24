@@ -1,0 +1,8 @@
+{
+  "name": "samyo-prospection",
+  "version": "0.3.0",
+  "description": "Samyo Prospection in Claude Code: prepare a LinkedIn prospecting strategy from a website, then run the campaign (summary, prospects, strategy, pace) with every action previewed and approved by you.",
+  "author": { "name": "Samyo", "url": "https://samyo.fr" },
+  "homepage": "https://samyo.fr",
+  "keywords": ["linkedin", "prospecting", "sales", "lead-generation", "training-providers", "mcp"]
+}

@@ -1,0 +1,6 @@
+{
+  "mcpServers": {
+    "samyo-decouverte": { "type": "http", "url": "https://samyo.fr/api/mcp/public" },
+    "samyo": { "type": "http", "url": "https://samyo.fr/api/mcp" }
+  }
+}
